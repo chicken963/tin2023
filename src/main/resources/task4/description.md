@@ -1,0 +1,1 @@
+Напишите `Dockerfile` на базе `Ubuntu:22.04`, который скачивает и распаковывает [архив](https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip)  в каталог `/archive` таким образом, чтобы архив не оказался в финальном образе.
