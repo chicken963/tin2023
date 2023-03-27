@@ -1,1 +1,0 @@
-Напишите команду для вывода размера файла `/docker-entrypoint.sh` в образе `nginx:mainline`
